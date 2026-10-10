@@ -49,7 +49,7 @@ Through this project, I gained practical experience in:
 
 ## 🖼️ Dashboard Preview
 
-![Blinkit Sales Analysis Dashboard](screenshots/dashboard_overview.png)
+![Blinkit Sales Analysis Dashboard]({10DD2D5C-5DFE-4543-AAC8-4ED5EF0BE8EF}.png)
 
 
 ## 🚀 How to Explore the Project
